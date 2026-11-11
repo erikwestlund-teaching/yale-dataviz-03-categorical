@@ -1,4 +1,4 @@
-# AI-Augmented Analytics for Data Visualization: Module 3: Categorical Data
+# AI-Augmented Analytics for Data Visualization: Module 5: Categorical Data
 
 Prompts are on the course page.
 
