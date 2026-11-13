@@ -4,12 +4,16 @@ title: "Categorical Data"
 
 ## Task
 
-Use the Census file and its codebook to compare counts, category order, and within-state proportions. Compare stacked bars with small multiples for the ten largest states using the rank column already in this file.
+Plot counts, ordered totals, and state composition from the Census file. The steps are in the module guide.
 
 ```{r}
+#| message: false
 library(readr)
 library(dplyr)
+library(tidyr)
+library(forcats)
 library(ggplot2)
+library(scales)
 ```
 
 ## Analysis
